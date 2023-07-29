@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../lucene-9.7.0/modules" />
+      <root url="file://$PROJECT_DIR$/../../../lucene-9.7.0/modules-test-framework" />
+      <root url="file://$PROJECT_DIR$/../../../lucene-9.7.0/modules-thirdparty" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../lucene-9.7.0/modules" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../lucene-9.7.0/modules-test-framework" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../lucene-9.7.0/modules-thirdparty" recursive="false" />
+  </library>
+</component>
